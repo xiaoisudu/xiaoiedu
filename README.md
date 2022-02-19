@@ -21,7 +21,7 @@
 
 ## 应用概述
 
-**小i译读: 一个可以保留原论文格式的翻译的软件，并在用户阅读时提供ai辅助帮助理解。**
+**小i译读: 一个可以保留原论文格式的翻译软件，并在用户阅读时提供ai辅助帮助理解。**
 
 主要功能：
 
@@ -32,13 +32,15 @@
 - 支持英汉左右同步阅读
 - 支持修改阅读界面背景色，不刺眼，看久不易视觉疲劳
 - 支持阅读时划线朗读
-- 支持阅读时划线翻译
+- 支持阅读时划线查词/翻译
 - 支持阅读时划线分析解构长难句  [解构格式看这里](https://xiaoisudu.github.io/) 
 
 
-## 下载安装
+## 软件下载
 
-点击此处下载 [应用](https://github.com/Molunerfinn/PicGo/releases)。
+百度网盘
+
+链接: https://pan.baidu.com/s/1Iocx_rYmC_ZgZzd-1h9smQ?pwd=ekve 提取码: ekve
 
 ## issue/需求列表
 **如果你使用过程中发现问题可以到这里来提问 [issue列表](https://github.com/xiaoisudu/xiaoiedu/issues) 。 如果有希望作者实现的功能也可以到这里来提 [功能建议](https://github.com/xiaoisudu/xiaoiedu/issues)**
