@@ -20,7 +20,31 @@
 </div>
 
 ## 应用概述
-# 小i译读
-借助ai辅助快速阅读英文paper
 
-# hahaha2
+**小i译读: 一个可以保留原论文格式的翻译的软件，并在用户阅读时提供ai辅助帮助理解。**
+
+主要功能：
+
+- 在保留原论文格式的基础上，将英文论文翻译成中文论文
+- 操作简单直接，把英文论文直接拖拽到软件后自动完成翻译
+- 数学公式可以被检测到并保留原样
+- 已经翻译的论文会在历史列表中，后期可以随时查看
+- 支持英汉左右同步阅读
+- 支持修改阅读界面背景色，不刺眼，看久不易视觉疲劳
+- 支持阅读时划线朗读
+- 支持阅读时划线翻译
+- 支持阅读时划线分析解构长难句  [解构格式看这里](https://xiaoisudu.github.io/) 
+
+
+## 下载安装
+
+点击此处下载 [应用](https://github.com/Molunerfinn/PicGo/releases)。
+
+## issue/需求列表
+**如果你使用过程中发现问题可以到这里来提问 [issue列表](https://github.com/xiaoisudu/xiaoiedu/issues) 。 如果有希望作者实现的功能也可以到这里来提 [功能建议](https://github.com/xiaoisudu/xiaoiedu/issues)**
+
+## 软件使用截图
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/20220219204429.png)
+
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/20220219204756.png)
+
