@@ -52,5 +52,5 @@
 ## 软件使用截图
 ![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/20220219204429.png)
 
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/20220219204756.png)
+![](https://pic4.zhimg.com/80/v2-67e2cdb0143b18bc6c7bd6480f5fd1d6_1440w.jpg)
 
