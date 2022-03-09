@@ -35,10 +35,10 @@
 - 支持阅读时划线朗读
 - 支持阅读时划线查词/翻译
 - 支持阅读时划线分析解构长难句  [解构格式看这里](https://xiaoisudu.github.io/) 
+- 支持导出PDF
 
 不支持的功能：
-- 导出word给其他阅读器使用
-- 导出pdf给其他阅读器使用
+- 不支持翻译ppt, 不支持翻译word，不支持翻译扫描件（图片）
 
 ## 软件下载
 
@@ -49,8 +49,16 @@
 ## issue/需求列表
 **如果你使用过程中发现问题可以到这里来提问 [issue列表](https://github.com/xiaoisudu/xiaoiedu/issues) 。 如果有希望作者实现的功能也可以到这里来提 [功能建议](https://github.com/xiaoisudu/xiaoiedu/issues)**
 
-## 软件使用截图
+## 软件使用界面截图
 ![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/20220219204429.png)
 
 ![](https://pic4.zhimg.com/80/v2-67e2cdb0143b18bc6c7bd6480f5fd1d6_1440w.jpg)
 
+## 翻译前后对比效果展示
+
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi01.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi02.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi03.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi04.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi05.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi06.png)
