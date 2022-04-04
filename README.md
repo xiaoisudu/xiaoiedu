@@ -49,8 +49,10 @@
 ## issue/需求列表
 **如果你使用过程中发现问题可以到这里来提问 [issue列表](https://github.com/xiaoisudu/xiaoiedu/issues) 。 如果有希望作者实现的功能也可以到这里来提 [功能建议](https://github.com/xiaoisudu/xiaoiedu/issues)**
 
-## 软件使用界面截图
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/20220219204429.png)
+## 软件使用界面截图（mac和win）
+![](https://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/xiaoiedu_mac.jpg)
+
+![](https://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/xiaoiedu_win.png)
 
 ![](https://pic4.zhimg.com/80/v2-67e2cdb0143b18bc6c7bd6480f5fd1d6_1440w.jpg)
 
