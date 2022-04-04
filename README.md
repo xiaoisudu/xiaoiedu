@@ -54,25 +54,17 @@ mac版本
 **如果你使用过程中发现问题可以到这里来提问 [issue列表](https://github.com/xiaoisudu/xiaoiedu/issues) 。 如果有希望作者实现的功能也可以到这里来提 [功能建议](https://github.com/xiaoisudu/xiaoiedu/issues)**
 
 ## 软件使用界面截图（mac和win）
+![](https://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/xiaoiedu_mac.jpg)
 
-[//]: # (![]&#40;https://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/xiaoiedu_mac.jpg&#41;)
+![](https://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/xiaoiedu_win.png)
 
-[//]: # ()
-[//]: # (![]&#40;https://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/xiaoiedu_win.png&#41;)
-
-[//]: # ()
-[//]: # (![]&#40;https://pic4.zhimg.com/80/v2-67e2cdb0143b18bc6c7bd6480f5fd1d6_1440w.jpg&#41;)
+![](https://pic4.zhimg.com/80/v2-67e2cdb0143b18bc6c7bd6480f5fd1d6_1440w.jpg)
 
 ## 翻译前后对比效果展示
 
-[//]: # (![]&#40;http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi01.png&#41;)
-
-[//]: # (![]&#40;http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi02.png&#41;)
-
-[//]: # (![]&#40;http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi03.png&#41;)
-
-[//]: # (![]&#40;http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi04.png&#41;)
-
-[//]: # (![]&#40;http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi05.png&#41;)
-
-[//]: # (![]&#40;http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi06.png&#41;)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi01.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi02.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi03.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi04.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi05.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi06.png)
