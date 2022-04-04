@@ -62,9 +62,9 @@ mac版本
 
 ## 翻译前后对比效果展示
 
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi01.png)
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi02.png)
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi03.png)
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi04.png)
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi05.png)
-![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi06.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi011.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi012.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi013.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi014.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi015.png)
+![](http://hl-md-imgs.oss-cn-beijing.aliyuncs.com/img/zhanshi016.png)
