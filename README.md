@@ -42,9 +42,13 @@
 
 ## 软件下载
 
-百度网盘
+windows版本下载
 
 链接: https://pan.baidu.com/s/1Iocx_rYmC_ZgZzd-1h9smQ?pwd=ekve 提取码: ekve
+
+mac版本
+
+获取链接：https://reurl.cc/VjrqWQ
 
 ## issue/需求列表
 **如果你使用过程中发现问题可以到这里来提问 [issue列表](https://github.com/xiaoisudu/xiaoiedu/issues) 。 如果有希望作者实现的功能也可以到这里来提 [功能建议](https://github.com/xiaoisudu/xiaoiedu/issues)**
