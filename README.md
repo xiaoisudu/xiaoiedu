@@ -46,7 +46,7 @@ windows版本下载
 
 链接: https://pan.baidu.com/s/1Iocx_rYmC_ZgZzd-1h9smQ?pwd=ekve 提取码: ekve
 
-mac版本
+mac版本2
 
 获取链接：https://reurl.cc/VjrqWQ
 
